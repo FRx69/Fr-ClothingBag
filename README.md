@@ -1,4 +1,4 @@
-mt-clothingbag
+FR-clothingbag
 Simple clothing bag script for QBCore
 
 Preview:
