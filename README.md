@@ -9,7 +9,7 @@ Add image for qb-inventory/html/images
 
 Add this to your qb-core/shared/items.lua:
 
-	-- mt-clothingbag
+	-- Fr-clothingbag
 	["cloth-bag"]  	= {["name"] = "cloth-bag", 			["label"] = "Clothing Bag", 								["weight"] = 100, 		["type"] = "item", 			["image"] = "cloth-bag.png", 				["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = ""},
 
 Dependicies
