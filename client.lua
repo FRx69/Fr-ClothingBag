@@ -1,7 +1,7 @@
 QBCore = exports['qb-core']:GetCoreObject()
 
-RegisterNetEvent("consumables:client:outfitbag")
-AddEventHandler("consumables:client:outfitbag", function(itemName)
+RegisterNetEvent("fr-oufitbag:client:outfitbag")
+AddEventHandler("fr-oufitbag:client:outfitbag", function(itemName)
     local playerPed = PlayerPedId()
     local coords    = GetEntityCoords(playerPed)
     local forward   = GetEntityForwardVector(playerPed)
